@@ -8,4 +8,6 @@ data class CatPhoto(
     val url:String,
     val width: Int,
     val height:Int,
+    val author: String,
+    val download_url: String
 )

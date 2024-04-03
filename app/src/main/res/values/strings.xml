@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CatPhotoApp</string>
+    <string name="app_name">RandomPhotoApp</string>
     <string name="placeholder_result">Result of get photos from web!</string>
     <string name="problem_with_connection">Problem with connection</string>
 </resources>

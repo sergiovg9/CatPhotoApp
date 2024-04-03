@@ -43,6 +43,7 @@ fun CatApp(){
 @Composable
 fun CatTopBar(scrollBehavior: TopAppBarScrollBehavior,modifier:Modifier = Modifier){
     CenterAlignedTopAppBar(
+        scrollBehavior=scrollBehavior,
         title = {
             Text(
                 text = stringResource(id = R.string.app_name),
